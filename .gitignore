@@ -23,3 +23,6 @@ logs
 .env.*
 !.env.example
 reference
+
+doc/*
+.claude/settings.local.json

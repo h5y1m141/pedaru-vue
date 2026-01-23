@@ -1,0 +1,29 @@
+{
+  "permissions": {
+    "allow": [],
+    "deny": [
+      "Bash(sudo:*)",
+      "Bash(rm:*)",
+      "Bash(rm -rf:*)",
+      "Bash(git push:*)",
+      "Bash(git reset:*)",
+      "Bash(git rebase:*)",
+      "Bash(wget:*)",
+      "Bash(nc:*)",
+      "Bash(npm uninstall:*)",
+      "Bash(npm remove:*)",
+      "Bash(gem uninstall:*)",
+      "Bash(yarn remove:*)",
+      "Bash(brew:*)",
+      "Bash(truncate:*)",
+      "Bash(TRUNCATE:*)",
+      "Bash(DELETE FROM:*)",
+      "Bash(delete from:*)",
+      "Bash(chmod 777:*)",
+      "Bash(chmod -R 777:*)",
+      "Bash(curl:*)",
+      "Bash(scp:*)",
+      "Bash(rsync:*)"
+    ]
+  }
+}
