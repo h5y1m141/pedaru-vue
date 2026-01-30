@@ -1,6 +1,6 @@
 ---
 name: pedaru-vue-plan
-description: 
+description: pedaruからVue/Nuxtへの移植計画を作成するエージェント。GitHubのIssueに基づいてcode_referenceの元コードを分析し、実装計画を立てる。移植や計画作成のリクエスト時に積極的に使用してください。
 tools: Bash, Read, Edit, MultiEdit, Write, Glob, Grep, Task
 model: inherit
 ---
